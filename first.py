@@ -1,6 +1,3 @@
 print("This is GIT-TESTINNG/first.py")
-print("Version 3")
-print("Version 3")
-print("Version 3")
-print("Version 3")
-print("Version 3")
+print("github commit push 1")
+

@@ -1,1 +1,1 @@
-print("Changing rivise")
+print("Changing rivised ")

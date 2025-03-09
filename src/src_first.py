@@ -1,2 +1,2 @@
 print("This is GIT-TESTINNG/src/src_first.py")
-print("Version rivise 1")
+print("github commit push 1")
